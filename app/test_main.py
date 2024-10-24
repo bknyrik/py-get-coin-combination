@@ -25,7 +25,7 @@ def test_should_equal_expected_result(
     [
         ("23",),
         (59.2,),
-        ((2+5j),),
+        ((2 + 5j),),
         (None,),
         ([],)
     ],
